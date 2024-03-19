@@ -1,0 +1,7 @@
+# Python libraries and compilation
+/app/dist/*
+/app/build/*
+/tmp/*
+
+# Log
+/app/log/*

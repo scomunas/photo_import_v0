@@ -1,0 +1,4 @@
+Instructions for create distribution
+
+1. Move to app folder
+2. Run pyinstaller --onefile photo_import.py

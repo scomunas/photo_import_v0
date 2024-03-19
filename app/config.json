@@ -1,0 +1,17 @@
+{
+    "sources": [
+        {
+            "name": "Nikon Z750",
+            "type": "removable",
+            "path": "D:"
+        },
+        {
+            "name": "Mobile - Sergio",
+            "type": "network",
+            "path": "Z:/2024"
+        }
+    ],
+    "destination_folder": "C:/Users/200000460/Downloads/results",
+    "exception_ext": [".picasaoriginals", ".thm", ".lrv", ".db"],
+    "exception_folders":[".", ".."]
+}
